@@ -1,0 +1,12 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Capital City MTB"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Capital City Youth Mountain Bike Team"

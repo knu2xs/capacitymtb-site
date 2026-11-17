@@ -1,0 +1,23 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Updates"
+pageRef = "updates"
+identifier = "updates"
+weight = 100
+
+[[main]]
+name = "Schedule"
+pageRef = "schedule"
+identifier = "schedule"
+weight = 200
+
+[[main]]
+name = "About"
+pageRef = "about"
+identifier = "about"
+weight = 900
+
+[[footer]]
+none = "none"
