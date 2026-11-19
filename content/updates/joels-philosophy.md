@@ -2,7 +2,7 @@
 date = '2026-11-11T19:07:39-08:00'
 draft = false
 title = 'Joels Philosophy'
-authors = ["joel-mccune"]
+authors = ["Joel-McCune"]
 +++
 Having been recently named as head coach, I feel it fair to let you know a bit about my philosophy toward sport. I believe youth sports should help young people become more capable, confident and resilient through the medium of sport. My goal is to help athletes discover what they are capable of, learn how to work through challenges, and build a lifelong love of being active and outdoors. Mountain biking is the medium; developing character is the mission.
 

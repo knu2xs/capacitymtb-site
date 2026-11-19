@@ -1,0 +1,30 @@
+<article class="article-link--card group relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300/80 bg-white/85 dark:border-neutral-600/80 dark:bg-neutral-900/80">
+  {{ with resources.Get .Params.photo }}
+    <div class="relative aspect-[4/3] overflow-hidden">
+      <img
+        class="nozoom not-prose absolute inset-0 h-full w-full object-cover transition-transform duration-700 ease-[cubic-bezier(0.22,1,0.36,1)] group-hover:scale-[1.03]"
+        src="{{ .RelPermalink }}"
+        alt="{{ $.Title }}"
+        loading="lazy"
+        decoding="async">
+    </div>
+  {{ end }}
+
+  <div class="p-4">
+    <header>
+      <a
+        href="{{ .RelPermalink }}"
+        class="not-prose before:absolute before:inset-0 decoration-primary-500 text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2 dark:text-neutral">
+        <h2>{{ .Title | emojify }}</h2>
+      </a>
+    </header>
+
+    {{ with .Params.role }}
+      <p class="mt-1 text-sm text-neutral-500 dark:text-neutral-400">{{ . }}</p>
+    {{ end }}
+
+    {{ with .Params.summary }}
+      <p class="article-link__summary mt-2 line-clamp-5 text-sm text-neutral-700 dark:text-neutral-300">{{ . }}</p>
+    {{ end }}
+  </div>
+</article>

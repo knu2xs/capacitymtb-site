@@ -24,6 +24,7 @@ verification = { }
 rssnext = { }
 advertisement = { }
 enableStyledScrollbar = true
+mainSections = ["updates"]
 
 [languageRedirect]
 enabled = false
