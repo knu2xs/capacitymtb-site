@@ -2,6 +2,22 @@
 
 This site uses Hugo with the Blowfish theme.
 
+## Photos in page text
+
+Put photos under `assets/` and insert a figure immediately before the text that
+should wrap around it. For example, a photo at `assets/people/example.jpg` can
+be floated to the right:
+
+```markdown
+{{< figure src="people/example.jpg" alt="Describe the photo" figureClass="bio-photo" >}}
+
+Your paragraph goes here.
+```
+
+For a left float, use `figureClass="bio-photo bio-photo-left"` instead. Photos
+are displayed above the text on small screens; on wider screens, text may wrap
+around them across multiple paragraphs.
+
 ## Publishing
 
 In the GitHub repository, open **Settings > Pages** and select **GitHub Actions**

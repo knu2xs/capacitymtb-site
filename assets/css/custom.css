@@ -15,6 +15,11 @@ figure.bio-photo > img {
     float: right;
     margin-left: 1rem;
   }
+
+  figure.bio-photo.bio-photo-left {
+    float: left;
+    margin: 0 1rem 1rem 0;
+  }
 }
 
 .person-profile-photo {
