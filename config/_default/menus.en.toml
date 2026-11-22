@@ -20,6 +20,12 @@ identifier = "about"
 weight = 900
 
 [[main]]
+name = "Join Us"
+pageRef = "join-us"
+identifier = "join-us"
+weight = 1000
+
+[[main]]
 name = "All People"
 pageRef = "people"
 parent = "about"

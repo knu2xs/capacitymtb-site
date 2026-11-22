@@ -1,8 +1,8 @@
 ---
 date: '2026-11-15T10:23:18-08:00'
 draft: false
-title: 'Join'
-tags: ['join', 'volunteer']
+title: 'Join US Capital City MTB'
+tags: ['join', 'volunteer', 'sponsor']
 ---
 
 Whether you're a student looking for adventure, a parent searching for a positive activity, an experienced rider interested in coaching, or a local business looking to support youth in our community, we'd love to have you join us.
