@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+<header class="mt-5 max-w-prose">
+  <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
+    {{ .Title | emojify }}
+  </h1>
+</header>
+
+<section class="mt-6 mb-10 max-w-prose prose dark:prose-invert">
+  {{ .Content }}
+</section>
+
+{{ $people := where site.RegularPages "Section" "people" }}
+{{ partial "person-grid.html" $people.ByWeight }}
+
+{{ end }}

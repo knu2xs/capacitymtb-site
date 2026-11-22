@@ -19,5 +19,29 @@ pageRef = "about"
 identifier = "about"
 weight = 900
 
+[[main]]
+name = "All People"
+pageRef = "people"
+parent = "about"
+weight = 10
+
+[[main]]
+name = "Coaches"
+pageRef = "coaches"
+parent = "about"
+weight = 20
+
+[[main]]
+name = "Coaching Leadership"
+pageRef = "leadership"
+parent = "about"
+weight = 30
+
+[[main]]
+name = "Board of Directors"
+pageRef = "board"
+parent = "about"
+weight = 40
+
 [[footer]]
 none = "none"
