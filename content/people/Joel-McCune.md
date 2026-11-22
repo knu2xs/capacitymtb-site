@@ -23,7 +23,13 @@ These places give our athletes access to experiences that many communities can o
 
 Those opportunities matter to me personally. I have had the privilege of being a high-level athlete in two very different sports and a coach in one of them. I was a distance runner through high school and college, lucky enough to run for the University of Missouri. 
 
+{{< figure src="people/joel-mccune/training-in-charlotte.jpg" alt="Training in Charlotte" figureClass="bio-photo bio-photo-left" >}}
+
+
 Then, after growing up paddling whitewater rivers recreationally, I started training seriously for whitewater slalom racing in my 20s, consistently placing in the top five nationally and was ranked in the top 100 in the world. During this time, I also coached a number of athletes who competed at World Cups, World Championships, and the Olympic Games. 
+
+{{< figure src="people/joel-mccune/coaching-hailey.jpg" alt="Coaching Hailey" figureClass="bio-photo" >}}
+
 
 Both of these sports, running and whitewater slalom, present many of the same unique challenges as mountain biking, and have had a profound influence on who I am. Through coaching, also have seen the transformative effects these sports can have on maturing youth.
 
