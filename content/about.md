@@ -4,7 +4,6 @@ draft: false
 title: 'About Capital City MTB'
 tags: ["about", "information"]
 ---
-# Welcome to Capital City Mountain Bike Team
 
 The Capital City Mountain Bike Team exists to help young people discover the joy of riding bikes, exploring trails, building friendships, and challenging themselves in the outdoors.
 
