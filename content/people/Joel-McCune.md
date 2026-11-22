@@ -13,7 +13,7 @@ summary: >
 
 The Capital City Youth Mountain Bike Team is, first and foremost, about people coming together to create something truly special. Mountain biking brings us together, but it is the relationships formed along the trail that leave the most lasting impression. Every practice, race, and ride becomes an opportunity for young athletes to learn perseverance, humility, responsibility, and confidence alongside their teammates and coaches.
 
-There is something uniquely powerful about mountain biking as a vehicle for youth development. Mountain biking inherently challenges anybody who tries it. The sport requires a combination of fitness, skill, perserverence and courage. Every time on the bike presents challenges, a steep hill to climb, an intimidating descent, a particularly hot day, or a day where is is raining at the trailhead, and snowing at the top of the hill (it happens!). Success often comes only after failure, and progress is measured not against others, but against the rider they were yesterday. These lessons have a way of extending far beyond the trail.
+There is something uniquely powerful about mountain biking as a vehicle for youth development. Mountain biking inherently challenges anybody who tries it. The sport requires a combination of fitness, skill, perseverance and courage. Every time on the bike presents challenges, a steep hill to climb, an intimidating descent, a particularly hot day, or a day where it is raining at the trailhead, and snowing at the top of the hill (it happens!). Success often comes only after failure, and progress is measured not against others, but against the rider they were yesterday. These lessons have a way of extending far beyond the trail.
 
 Making these opportunities available for youth in Olympia does not happen without people. Our volunteer coaches dedicate countless hours to helping young athletes discover what they are capable of. They show up week after week, not because they have to, but because they believe in the transformative power of community, mentorship, and outdoor recreation. The impact they have on these young riders is difficult to measure, but impossible to miss.
 
@@ -21,7 +21,7 @@ We are also fortunate to call Olympia home. To those of us who ride here regular
 
 These places give our athletes access to experiences that many communities can only dream of. More importantly, they provide a setting where friendships are formed, confidence is built, and young people discover both their strengths and their resilience.
 
-Those opportunities matter to me personally. I have had the privilege of being a high-level athlete in two very different sports and a coach in one of them. I was a distance runner through high school and college, lucky enough to run for the University of Missouri. 
+Those opportunities matter to me personally. I have had the privilege of being a high-level athlete in two very different sports and a coach in one of them. I was a distance runner through high school and college, and privileged enough to run for the University of Missouri. 
 
 {{< figure src="people/joel-mccune/training-in-charlotte.jpg" alt="Training in Charlotte" figureClass="bio-photo bio-photo-left" >}}
 
