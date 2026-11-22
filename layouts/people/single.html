@@ -1,29 +1,24 @@
 {{ define "main" }}
 
 <article class="max-w-prose">
+  <header class="mt-5">
+    <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
+      {{ .Title | emojify }}
+    </h1>
+
+    {{ with .Params.role }}
+      <p class="mt-1 text-lg text-neutral-600 dark:text-neutral-300">{{ . }}</p>
+    {{ end }}
+  </header>
+
   <div class="person-profile-layout">
     {{ with resources.Get .Params.photo }}
-      {{ $profileImage := . }}
-      {{ $zoomImage := . }}
-      {{ if not (or site.Params.disableImageOptimization (eq .MediaType.SubType "svg")) }}
-        {{ $profileImage = .Resize "320x" }}
-      {{ end }}
       <img
-        class="person-profile-photo shrink-0 rounded-lg ring-2 ring-primary-500"
-        src="{{ $profileImage.RelPermalink }}"
-        data-zoom-src="{{ $zoomImage.RelPermalink }}"
+        class="person-profile-photo rounded-lg ring-2 ring-primary-500"
+        src="{{ .RelPermalink }}"
+        data-zoom-src="{{ .RelPermalink }}"
         alt="{{ $.Title }}">
     {{ end }}
-
-    <header class="mt-5">
-      <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-        {{ .Title | emojify }}
-      </h1>
-
-      {{ with .Params.role }}
-        <p class="mt-1 text-lg text-neutral-600 dark:text-neutral-300">{{ . }}</p>
-      {{ end }}
-    </header>
 
     <section class="article-content person-profile-content prose dark:prose-invert">
       {{ .Content }}
