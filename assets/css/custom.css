@@ -1,3 +1,11 @@
+.person-card-photo--top {
+  object-position: center top;
+}
+
+.person-card-photo--bottom {
+  object-position: center bottom;
+}
+
 figure.bio-photo {
   width: 100%;
   max-width: 10rem;

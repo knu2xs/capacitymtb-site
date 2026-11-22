@@ -6,6 +6,7 @@ groups:
 leadership_role: "Head Coach"
 weight: 10
 photo: "people/joel-mccune.jpg"
+photo_position: "top"
 summary: >
   Joel enjoys helping young athletes build confidence,
   fitness, and a lifelong love of mountain biking.

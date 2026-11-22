@@ -2,6 +2,17 @@
 
 This site uses Hugo with the Blowfish theme.
 
+## Profile card photos
+
+Set `photo_position` in a person's front matter to `top`, `center` (or `middle`),
+or `bottom` to control the vertical crop on their profile card. It defaults to
+`center` when omitted and does not affect the photo on the profile page.
+
+```yaml
+photo: "people/example.jpg"
+photo_position: "top"
+```
+
 ## Photos in page text
 
 Put photos under `assets/` and insert a figure immediately before the text that
